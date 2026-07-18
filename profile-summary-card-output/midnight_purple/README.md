@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/OldBigBuddha/OldBigBuddha/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
-```
-
-    
